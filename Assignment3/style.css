@@ -1,0 +1,68 @@
+header{
+  background-color: #5DBADF;
+}
+
+body {
+  background-color: #cccdcc
+}
+
+main{
+  background-color: #5DBADF;
+}
+
+nav{
+  background-color: #5DBADF;
+
+}
+
+
+h1{ color:#0A454B;
+  background-color: #EEC4A9;
+}
+h2{color:#180A01;
+  background-color: #EEC4A9;
+}
+
+h3{ background-color: #EEC4A9;
+
+}
+
+
+
+}
+
+
+}
+#goodguy{ color: red;
+
+}
+.billybob{
+  color: white;
+  background-color: black;
+
+}
+
+a {
+ color: #00ff00;
+}
+
+a:link {
+ color: #F84825;
+}
+
+a:visited {
+ color: #0000ff;
+}
+
+a:active {
+ color: #00ffff;
+}
+
+a:hover {
+  text-decoration: none;
+ color: #F7F763;
+}
+#divy1{ color: #00ffff;
+  background-color: #black;
+
+}
