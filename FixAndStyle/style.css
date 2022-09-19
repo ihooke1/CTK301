@@ -1,0 +1,40 @@
+h2{color:#220CED;
+
+  font-style: italic;
+  font-weight: bold;
+}
+
+header{
+  background-color: #2ED1EA;
+}
+
+.doughnuts{ color: #FB2121;}
+
+a:hover {
+  text-decoration: none;
+ color: #F7F763;
+}
+
+#divy2{ color: #FB2121;}
+
+h3{
+background-color: #E9ED0C;
+font-style: italic;
+font-weight: bold;
+}
+
+h4{
+  background-color: #36EC4E;
+  color: #FAF06A
+}
+#divy3 {
+  background-color: #73F249;
+}
+
+h5{
+  color: #F63C17;
+}
+
+footer{
+background-color: #EBF438;
+}
