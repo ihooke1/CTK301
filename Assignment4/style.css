@@ -1,0 +1,74 @@
+body{
+  font-family: sans-serif;
+  background-image: url(Assignment4/funnyusb.jpg);
+  background-color:#ccffcc;
+  background-size: auto;
+
+  }
+
+
+
+  h1{background-color: #ffbf80;
+    font-family: italic;
+    font-weight: normal;
+  }
+  h2{background-color: #ffbf80;
+    font-family: italic;
+    font-weight: normal;
+  }
+  h3{background-color: #ffbf80;
+    font-family: italic;
+    font-weight: normal;
+
+
+  }
+  h4{background-color: #ffbf80
+    font-family: italic;
+    font-weight: normal;
+  }
+  .textcenter {
+  text-align: Center;
+  }
+  .textjustify {
+  text-align: justify;
+  }
+
+  .imgbox{
+    border: 5px solid#202124;
+    padding: 15px;
+    margin: 20px;
+    background-color: #ffffff;}
+    .backimg{background-image: url(Assignment4/RickyBobby.jpg);
+    }
+
+  a {
+   color: #00ff00;
+  }
+
+  a:link {
+   color: #F84825;
+  }
+
+  a:visited {
+   color: #00FF00;
+  }
+
+  a:active {
+   color: #00ffff;
+  }
+
+  a:hover {
+    text-decoration: none;
+   color: #F7F763;
+
+
+
+
+
+
+  <!-- Using CSS, make all the text on the pages sans-serif.
+  Using CSS, center at least one paragraph of text on your pages
+  Using CSS, justify at least one paragraph of text on you pages
+  Using CSS, make all the headers (h1, h2, etc.) on your pages orange, italic and normal weight (not bold.
+  Using CSS, give your images a heavy black border with white between the border and the image.
+  Using CSS, put a background image in your pages. -->
