@@ -12,9 +12,9 @@ h1{
 h2{
   font-weight: bold;
   font-family: sans-serif,Helvetica;
-  text-decoration: underline;
   text-align: justify;
-  padding: 15px;
+  padding: 10px 10px 20px 20px;
+  border-bottom: 3px solid black;
 }
 p{
   text-align: justify;
